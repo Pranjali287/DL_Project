@@ -1,5 +1,5 @@
 Agent Policy,Environment Condition,Success Rate (%),Collision Rate (%),Timeout Rate (%),Avg Reward,Std Reward,Avg Steps,Avg Succ Path Length,Inference Latency (ms)
-Fixed-Map Agent,Familiar Map,100.0,0.0,0.0,108.5,0.0,18.0,18.0,0.597
-Fixed-Map Agent,Unseen Maps,0.0,18.0,82.0,-304.14,280.13,50.04,-1.0,0.638
-Diverse-Map Agent,Familiar Map,0.0,0.0,100.0,-48.0,0.0,60.0,-1.0,0.639
-Diverse-Map Agent,Unseen Maps,14.0,0.0,86.0,-20.99,52.41,54.12,18.0,0.72
+Fixed-Map Agent,Familiar Map,100.0,0.0,0.0,108.5,0.0,18.0,18.0,0.087
+Fixed-Map Agent,Unseen Maps,0.0,18.0,82.0,-304.14,280.13,50.04,-1.0,0.098
+Diverse-Map Agent,Familiar Map,0.0,0.0,100.0,-48.0,0.0,60.0,-1.0,0.085
+Diverse-Map Agent,Unseen Maps,14.0,0.0,86.0,-20.99,52.41,54.12,18.0,0.089
